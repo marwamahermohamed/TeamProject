@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello world
 hello iti
+=======
+Hello world 
+ Hello team
+>>>>>>> 511eadfd1fa2f863056b075db373ce47cb44640b
 
